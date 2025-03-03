@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*This is the styling for the class emailTitle*/
+.emailTitle{
+	/*The main focus is the border to create a visual appearance*/
+	border: 5px solid black;
+	border-radius: 45px;
+	margin: 10px;
+	
+}
+/*This is specifically for the icon that I don't have yet, but will someday*/
+.icon{
+	width: 5%;
+	margin-right: 50%;
+}
+
+/*This is to keep the header in the center and the icon in the left*/
+h1{
+	margin-right: 35%;
+}
+/*This is the styling for the information in the center of the page*/
+.intelBody{
+	/*This is a temperary number since I don't have information to put on the page*/
+	height: 700px;
+}
+
+/*This styles the main section that contains everything else*/
+body{
+	border: 5px solid black;
+	border-radius: 45px;
+	margin: 10px;
+	
+}
+
